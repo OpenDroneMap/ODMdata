@@ -11,6 +11,6 @@ or
 
 ```git clone --recursive https://github.com/OpenDroneMap/odm_data.git```
 
-otherwise you'll get empty directories (at least once all are converted to submodules).
+otherwise you'll get empty directories.
 
 Alternatively, follow the links to the individual datasets, in case you want to download just one or a few. Mix. Match. Have droney fun.
