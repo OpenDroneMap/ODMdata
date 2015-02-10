@@ -1,0 +1,24 @@
+[submodule "apt"]
+	path = apt
+	url = https://github.com/OpenDroneMap/odm_data_apt.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/OpenDroneMap/odm_data_benchmark.git
+[submodule "caliterra"]
+	path = caliterra
+	url = https://github.com/OpenDroneMap/odm_data_caliterra.git
+[submodule "copr"]
+	path = copr
+	url = https://github.com/OpenDroneMap/odm_data_copr.git
+[submodule "glam"]
+	path = glam
+	url = https://github.com/OpenDroneMap/odm_data_glam.git
+[submodule "langley"]
+	path = langley
+	url = https://github.com/OpenDroneMap/odm_data_langley.git
+[submodule "pacifica"]
+	path = pacifica
+	url = https://github.com/OpenDroneMap/odm_data_pacifica.git
+[submodule "seneca"]
+	path = seneca
+	url = https://github.com/OpenDroneMap/odm_data_seneca.git
