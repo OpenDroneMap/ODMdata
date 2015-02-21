@@ -22,3 +22,6 @@
 [submodule "seneca"]
 	path = seneca
 	url = https://github.com/OpenDroneMap/odm_data_seneca.git
+[submodule "odm_boruszyn_kap"]
+	path = odm_boruszyn_kap
+	url = https://github.com/merkato/odm_boruszyn_kap
