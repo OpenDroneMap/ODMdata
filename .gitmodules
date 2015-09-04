@@ -25,3 +25,12 @@
 [submodule "odm_boruszyn_kap"]
 	path = boruszyn_kap
 	url = https://github.com/merkato/odm_boruszyn_kap
+[submodule "lewis"]
+	path = lewis
+	url = https://github.com/OpenDroneMap/odm_data_lewis.git
+[submodule "bellus"]
+	path = bellus
+	url = https://github.com/OpenDroneMap/odm_data_bellus.git
+[submodule "rising_valley_nir"]
+	path = rising_valley_nir
+	url = https://github.com/OpenDroneMap/odm_data_rv_nir.git
