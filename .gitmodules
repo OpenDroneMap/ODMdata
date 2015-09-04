@@ -31,3 +31,6 @@
 [submodule "odm_data_bellus"]
 	path = odm_data_bellus
 	url = https://github.com/OpenDroneMap/odm_data_bellus
+[submodule "odm_data_rv_nir"]
+	path = odm_data_rv_nir
+	url = https://github.com/OpenDroneMap/odm_data_rv_nir
