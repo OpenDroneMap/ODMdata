@@ -16,20 +16,20 @@ otherwise you'll get empty directories.
 Alternatively, follow the links to the individual datasets, in case you want to download just one or a few. Mix. Match. Have droney fun.
 
 ========
-Dataset overview
+Dataset overview (Bold are "good" datasets that have known success)
 
 Name: | Coordinates in EXIF: | GCPs in File:
 ------|----------------------|---------------
 apt | no | no
 benchmark | yes | no
 boruszyn | no | YES
-caliterra | yes | no
+**caliterra** | yes | no
 copr | no | no
 glam | no | no
 langley | no | no
-odm_data_bellus | yes | no
+**odm_data_bellus** | yes | no
 odm_data_lewis | yes | no
 odm_data_rvnir | yes | no
 pacifica | no | no
-seneca | yes | no
+**seneca** | yes | no
 
