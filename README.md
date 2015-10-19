@@ -18,14 +18,18 @@ Alternatively, follow the links to the individual datasets, in case you want to 
 ========
 Dataset overview
 
-Name:       Coordinates in EXIF:       GCPs in File:
+Name: | Coordinates in EXIF: | GCPs in File:
+------|----------------------|---------------
+apt | no | no
+benchmark | yes | no
+boruszyn | no | YES
+caliterra | yes | no
+copr | no | no
+glam | no | no
+langley | no | no
+odm_data_bellus | yes | no
+odm_data_lewis | yes | no
+odm_data_rvnir | yes | no
+pacifica | no | no
+seneca | yes | no
 
-apt         no                         no
-benchmark   no                         no
-boruszyn    no                         YES
-caliterra   no                         no
-copr        no                         yes, but not gcp_list.txt
-glam        no                         no
-langley     no                         no
-pacifica    no                         no
-seneca      no                         no
