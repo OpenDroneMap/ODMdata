@@ -1,9 +1,9 @@
 odm_data
 ========
 
-Example data for OpenDroneMap: https://github.com/OpenDroneMap/OpenDroneMap sourced from a variety of sources.
+Example data for OpenDroneMap: https://github.com/OpenDroneMap/OpenDroneMap sourced from a variety of sources. See below for recommended datasets to use. 
 
-To clone all of it, the repository, it has submodules, so try:
+To clone all of it (not recommended if you have a slow connection or limited disk space), the repository, it has submodules, so try:
 
 ```git clone --recursive git://github.com/OpenDroneMap/odm_data```
 
