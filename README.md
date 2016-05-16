@@ -20,16 +20,13 @@ Dataset overview (Bold are "good" datasets that have known success)
 
 Name: | # Images | Size (MB) | Coordinates in EXIF: | GCPs in File:
 ------|----------|-----------|----------------------|---------------
-apt | 76 | 579 | :heavy_multiplication_x: | :heavy_multiplication_x:
 benchmark | 25 | 106 | :heavy_check_mark: | :heavy_multiplication_x:
 **boruszyn** | 46 | 181 | :heavy_multiplication_x: | :heavy_check_mark:
 **caliterra** | 77 | 272 | :heavy_check_mark: | :heavy_multiplication_x:
 copr | 41 | 150 | :heavy_multiplication_x: | :heavy_check_mark:
-glam | 191 | 575 | :heavy_multiplication_x: | :heavy_multiplication_x:
 langley | 200 | 706 | :heavy_multiplication_x: | :heavy_multiplication_x:
 odm_data_bellus | 122 | 717 | :heavy_check_mark: | :heavy_check_mark:
 odm_data_lewis | 145 | 610 | :heavy_check_mark: | :heavy_multiplication_x:
 odm_data_rvnir | 566 | 2810 | :heavy_check_mark: | :heavy_check_mark:
-pacifica | 12 | 66.4 | :heavy_multiplication_x: | :heavy_multiplication_x:
 **seneca** | 167 | 358 | :heavy_check_mark: | :heavy_multiplication_x:
 
