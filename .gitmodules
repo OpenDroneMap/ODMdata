@@ -1,6 +1,3 @@
-[submodule "benchmark"]
-	path = benchmark
-	url = https://github.com/OpenDroneMap/odm_data_benchmark.git
 [submodule "caliterra"]
 	path = caliterra
 	url = https://github.com/OpenDroneMap/odm_data_caliterra.git
