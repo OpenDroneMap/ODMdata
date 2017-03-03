@@ -16,6 +16,7 @@ Name: | # Images | Size (MB) | Coordinates in EXIF: | GCPs in File: | RTK:
 [**boruszyn**](https://github.com/merkato/odm_boruszyn_kap) | 46 | 181 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x:
 [**caliterra**](https://github.com/OpenDroneMap/odm_data_caliterra) | 77 | 272 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [copr](https://github.com/OpenDroneMap/odm_data_copr) | 41 | 150 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x:
+[garfield](https://github.com/OpenDroneMap/odm_data_garfield_msp) | 140 | 530 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [langley](https://github.com/OpenDroneMap/odm_data_langley) | 200 | 706 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [lewis](https://github.com/OpenDroneMap/odm_data_lewis) | 145 | 610 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [rising_valley_nir](https://github.com/OpenDroneMap/odm_data_rv_nir) | 566 | 2810 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x:
