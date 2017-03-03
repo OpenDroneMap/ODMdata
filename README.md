@@ -22,4 +22,4 @@ Name: | # Images | Size (MB) | Coordinates in EXIF: | GCPs in File: | RTK:
 [**seneca**](https://github.com/OpenDroneMap/odm_data_seneca) | 167 | 358 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**toledo**](https://github.com/OpenDroneMap/odm_data_toledo) | 87 | 449 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**waterbury**](https://github.com/OpenDroneMap/odm_data_waterbury) | 248 | 1921 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark:
-
+[**zoo**](https://github.com/OpenDroneMap/odm_data_zoo) | 524 | 3512 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
