@@ -8,7 +8,7 @@ Follow the links below to the download the datasets.
 ========
 Dataset overview (Bold are "good" datasets that have known success)
 
-Name: | # Images | Size (MB) | Coordinates in EXIF: | GCPs in File: | RTK: 
+Name: | # Images | Size (MB) | Coordinates in EXIF: | GCP File: | RTK: 
 ------|----------|-----------|----------------------|---------------|-----
 [**aukerman**](https://github.com/OpenDroneMap/odm_data_aukerman) | 77 | 543 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: 
 [bellus](https://github.com/OpenDroneMap/odm_data_bellus) | 122 | 717 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x:
