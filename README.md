@@ -21,6 +21,8 @@ Name: | # Images | Size (MB) | Coordinates in EXIF: | GCP File: | RTK:
 [lewis](https://github.com/OpenDroneMap/odm_data_lewis) | 145 | 610 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [rising_valley_nir](https://github.com/OpenDroneMap/odm_data_rv_nir) | 566 | 2810 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x:
 [**seneca**](https://github.com/OpenDroneMap/odm_data_seneca) | 167 | 358 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
+[**sance**](https://github.com/merkato/odm_sance) | 156|850 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**toledo**](https://github.com/OpenDroneMap/odm_data_toledo) | 87 | 449 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**waterbury**](https://github.com/OpenDroneMap/odm_data_waterbury) | 248 | 1921 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark:
+[**wietrznia**](https://github.com/merkato/odm_wietrznia) | 225 | 1200 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo) | 524 | 3512 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
