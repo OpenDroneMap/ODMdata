@@ -1,4 +1,4 @@
-odm_data
+ODMData
 ========
 
 Example data for OpenDroneMap: https://github.com/OpenDroneMap/OpenDroneMap sourced from a variety of sources. See below for recommended datasets to use. 
