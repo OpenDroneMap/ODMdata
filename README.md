@@ -1,7 +1,7 @@
 ODMData
 ========
 
-Example data for OpenDroneMap: https://github.com/OpenDroneMap/OpenDroneMap sourced from a variety of sources. See below for recommended datasets to use. 
+Example data for OpenDroneMap: https://github.com/OpenDroneMap/ODM and https://github.com/OpenDroneMap/WebODM and related projects sourced from a variety of sources. See below for recommended datasets to use. 
 
 Follow the links below to the download the datasets.
 
