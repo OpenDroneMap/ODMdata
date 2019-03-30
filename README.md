@@ -7,7 +7,7 @@ Follow the links below to the download the datasets.
 
 Dataset overview
 ========
-Bold are "good" datasets that have known success)
+Bold are "good" datasets that have known success.
 
 Name: | # Images | Size (MB) | Coordinates in EXIF: | GCP File: | RTK: 
 ------|----------|-----------|----------------------|---------------|-----
