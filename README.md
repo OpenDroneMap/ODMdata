@@ -13,6 +13,7 @@ Name: | # Images | Size (MB) | Coordinates in EXIF: | GCP File: | RTK:
 ------|----------|-----------|----------------------|---------------|-----
 [**aukerman**](https://github.com/OpenDroneMap/odm_data_aukerman) | 77 | 543 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: 
 [bellus](https://github.com/OpenDroneMap/odm_data_bellus) | 122 | 717 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x:
+[**banana**](https://github.com/pierotofy/dataset_banana) | 16 | 14 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**boruszyn**](https://github.com/merkato/odm_boruszyn_kap) | 46 | 181 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x:
 [**caliterra**](https://github.com/OpenDroneMap/odm_data_caliterra) | 77 | 272 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [copr](https://github.com/OpenDroneMap/odm_data_copr) | 41 | 150 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x:
