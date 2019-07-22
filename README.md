@@ -26,4 +26,5 @@ Name: | # Images | Size (MB) | Coordinates in EXIF: | GCP File: | RTK:
 [**toledo**](https://github.com/OpenDroneMap/odm_data_toledo) | 87 | 449 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**waterbury**](https://github.com/OpenDroneMap/odm_data_waterbury) | 248 | 1921 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark:
 [**wietrznia**](https://github.com/merkato/odm_wietrznia) | 225 | 1200 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
+[**ziegeleipark**](https://github.com/zivillian/odm_ziegeleipark) | 7169 | 28434 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
 [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo) | 524 | 3512 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:
