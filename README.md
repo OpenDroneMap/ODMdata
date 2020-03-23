@@ -1,13 +1,8 @@
 ODMData
 ========
 
-Example data for OpenDroneMap: https://github.com/OpenDroneMap/ODM and https://github.com/OpenDroneMap/WebODM and related projects sourced from a variety of sources. See below for recommended datasets to use. 
-
-Follow the links below to the download the datasets.
-
-Dataset overview
-========
-Bold are "good" datasets that have known success.
+These are example datasets for OpenDroneMap ([ODM](https://github.com/OpenDroneMap/ODM), [WebODM](https://github.com/OpenDroneMap/WebODM) and related projects), from a variety of sources. 
+Bolded names are "good" datasets that have known success.  Follow the links below to the download the datasets.  If you would like to contribute a dataset, please [post in the forum](https://community.opendronemap.org/c/datasets/10).
 
 | Name | # Images | Size (MB) | Coordinates in EXIF | GCP File | RTK | Notes |
 | ------|----------|-----------|----------------------|---------------|----- | -- |
@@ -50,3 +45,4 @@ Bold are "good" datasets that have known success.
 | [**wietrznia**](https://github.com/merkato/odm_wietrznia) | 225 | 1200 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**ziegeleipark**](https://github.com/zivillian/odm_ziegeleipark) | 7169 | 28434 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo) | 524 | 3512 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
