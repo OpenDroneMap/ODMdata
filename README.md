@@ -14,6 +14,7 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [**caliterra**](https://github.com/OpenDroneMap/odm_data_caliterra) | 77 | 272 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [copr](https://github.com/OpenDroneMap/odm_data_copr) | 41 | 150 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: |
 | [garfield](https://github.com/OpenDroneMap/odm_data_garfield_msp) | 140 | 530 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [gast_agrowing](https://drive.google.com/open?id=11yFommuRZyVXADcYEIjf-qz3AZrA8M6E) | 306 | 431 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | Multispectral. Notes in [forum post](https://community.opendronemap.org/t/agrowing-450-550-650-850-dataset/3910) |
 | [lafayette_square](https://drive.google.com/open?id=1O1TIR0ohgkf4xtJx7RsKn5us14D-L_xB) | 425 | 3683 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Lafayette Square in St. Louis - includes flight route geoJSON. |
 | [langley](https://github.com/OpenDroneMap/odm_data_langley) | 200 | 706 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [lewis](https://github.com/OpenDroneMap/odm_data_lewis) | 145 | 610 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
