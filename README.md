@@ -8,7 +8,7 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | ------|----------|-----------|----------------------|---------------|----- | -- |
 | [**aukerman**](https://github.com/OpenDroneMap/odm_data_aukerman) | 77 | 543 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x:  |
 | [bellus](https://github.com/OpenDroneMap/odm_data_bellus) | 122 | 717 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: |
-| [**banana**](https://github.com/pierotofy/dataset_banana) | 16 | 14 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | Actual bananas. Best starter dataset. |
+| [**banana**](https://github.com/pierotofy/dataset_banana) | 16 | 14 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | Actual bananas. Good starter dataset for 3D model, but does not appear on map. |
 | [**boruszyn**](https://github.com/merkato/odm_boruszyn_kap) | 46 | 181 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: |
 | [brighton_beach](https://github.com/pierotofy/drone_dataset_brighton_beach/) | 18 | 62 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**caliterra**](https://github.com/OpenDroneMap/odm_data_caliterra) | 77 | 272 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
@@ -39,8 +39,8 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [sheffield_park_3](https://github.com/pierotofy/drone_dataset_sheffield_park_3/) | 32 | 165 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [shitan_tw](https://drive.google.com/open?id=1Spu1F713Tw-z1XMdnrlD6NT4EhhFy2Lj) | 493 | 2541 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**toledo**](https://github.com/OpenDroneMap/odm_data_toledo) | 87 | 449 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [tuniu_tw_1](https://drive.google.com/open?id=1faBtGK7Jm5lTo_UWLz6onDGYGqlykHPa) | 271 | 2100 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | Tuniu River, Taiwan |
-| [tuniu_tw_2](https://drive.google.com/open?id=12UrLDHA6iZFJYF7OkErccH_xanRHefoZ) | 297 | 2380 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Tuniu River, Taiwan |
+| [tuniu_tw_1](https://drive.google.com/open?id=1faBtGK7Jm5lTo_UWLz6onDGYGqlykHPa) | 271 | 2100 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | RTK photos from Tuniu River, Taiwan. See [forum post](https://community.opendronemap.org/t/2019-04-11-tuniu-river-toufeng-miaoli-county-taiwan/3292) for additional info. |
+| [tuniu_tw_2](https://drive.google.com/open?id=12UrLDHA6iZFJYF7OkErccH_xanRHefoZ) | 297 | 2380 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | RTK photos from Tuniu River, Taiwan. See [forum post](https://community.opendronemap.org/t/2019-04-11-tuniu-river-toufeng-miaoli-county-taiwan/3292) for additional info. |
 | [victor_eaves](https://drive.google.com/open?id=14fa-2KKeTyvMfHH8lyGPwxVUh9BnBZ7n) | 432 | 3000 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Victor Eaves Park, New Zealand |
 | [**waterbury**](https://github.com/OpenDroneMap/odm_data_waterbury) | 248 | 1921 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: |
 | [**wietrznia**](https://github.com/merkato/odm_wietrznia) | 225 | 1200 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
