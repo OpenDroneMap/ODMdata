@@ -23,6 +23,7 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [mur_belair_m2](https://1drv.ms/u/s!AsDrAVdsoyVVwlKucCp5-WbL-eTQ) | 408 | 2040 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [mur_prairie_m1](https://1drv.ms/u/s!AsDrAVdsoyVVwlc8FBHJQEvUyu-1) | 445 | 4500 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [mur_sal_m1](https://1drv.ms/u/s!AsDrAVdsoyVVwlMfvv_OhdLnv8DS) | 562 | 2650 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [mygla](https://github.com/merkato/odm_mygla_dataset) | 29 | 150 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Good starter set. |
 | [piachoo_nir_1](https://drive.google.com/open?id=1uQfolV3X0R2WEK6axYyd3tWU0GGNrH57) | 196 | 483 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Micasense NIR | 
 | [piachoo_nir_2](https://drive.google.com/open?id=1SJd_eVzmAJomihsjrjo1QMEqKfVNi2kt) | 210 | 518 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Micasense NIR | 
 | [poets_park_stockpile](https://dashboard.aerosurvey.co.nz/files/shared/245.tar.gz) | 865 | 4100 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
