@@ -47,4 +47,5 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [**wietrznia**](https://github.com/merkato/odm_wietrznia) | 225 | 1200 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**ziegeleipark**](https://github.com/zivillian/odm_ziegeleipark) | 7169 | 28434 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo) | 524 | 3512 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [**Conch**](https://github.com/manand881/Conch) | 88 | 211 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | Sea Snail Conch. Like the Banana Dataset but larger in size |
 
