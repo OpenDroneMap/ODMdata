@@ -35,7 +35,7 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [rising_valley_nir](https://github.com/OpenDroneMap/odm_data_rv_nir/tree/master) | 566 | 2810 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**seneca**](https://github.com/OpenDroneMap/odm_data_seneca/tree/master) | 167 | 358 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**sance**](https://github.com/merkato/odm_sance/tree/master) | 156|850 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [sand_key](https://github.com/pierotofy/drone_dataset_sand_key/tree/master) | 191 | 1100 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [sand_key](https://github.com/pierotofy/drone_dataset_sand_key/tree/master) | 100 | 536 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [sheffield_cross](https://github.com/pierotofy/drone_dataset_sheffield_cross/tree/master) | 172 | 889 | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: |
 | [sheffield_park_1](https://github.com/pierotofy/drone_dataset_sheffield_park_1/tree/master) | 78 | 390 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [sheffield_park_2](https://github.com/pierotofy/drone_dataset_sheffield_park_2/tree/master) | 54 | 283 | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
