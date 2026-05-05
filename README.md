@@ -1,7 +1,7 @@
 ODMData
 ========
 
-These are example datasets for OpenDroneMap ([ODM](https://github.com/OpenDroneMap/ODM), [WebODM](https://github.com/OpenDroneMap/WebODM) and related projects), from a variety of sources. You can browse some of the dataset on [DroneDB Hub](https://hub.dronedb.app/r/odm).
+These are example datasets for OpenDroneMap ([ODM](https://github.com/OpenDroneMap/ODM) and related projects), from a variety of sources. You can browse some of the dataset on [DroneDB Hub](https://hub.dronedb.app/r/odm).
 Bolded names are "good" datasets that have known success.  Follow the links below to the download the datasets.  If you would like to contribute a dataset, please [post in the forum](https://community.opendronemap.org/c/datasets/10).
 
 
