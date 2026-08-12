@@ -46,6 +46,6 @@ Bolded names are "good" datasets that have known success.  Follow the links belo
 | [**waterbury**](https://github.com/OpenDroneMap/odm_data_waterbury/tree/master) | 248 | 1921 | [:link:](https://hub.dronedb.app/r/odm/waterbury) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: |
 | [**wietrznia**](https://github.com/merkato/odm_wietrznia/tree/master) | 225 | 1200 | [:link:](https://hub.dronedb.app/r/odm/wietrznia) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**ziegeleipark**](https://github.com/zivillian/odm_ziegeleipark/tree/master) | 7169 | 28434 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo/tree/master) | 524 | 3512 | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [**zoo**](https://github.com/OpenDroneMap/odm_data_zoo/tree/master) | 524 | 3512 | [:link:](https://hub.dronedb.app/r/odm/zoo) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [**Conch**](https://github.com/manand881/Conch/tree/master) | 88 | 211 | [:link:](https://hub.dronedb.app/r/odm/conch) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | Sea Snail Conch. Like the Banana Dataset but larger in size |
 
